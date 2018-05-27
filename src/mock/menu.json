@@ -1,0 +1,116 @@
+{
+  "menu": [
+    {
+      "label": "门户网站",
+      "icon": "el-icon-message",
+      "to": "mh",
+      "children": [
+        {
+          "label": "发布新文章",
+          "to": "/mh/mh0201/-1"
+        },
+        {
+          "label": "文章管理",
+          "to": "/mh/mh0201"
+        },
+        {
+          "label": "分类管理",
+          "to": "/mh/mh0202"
+        },
+        {
+          "label": "轮播图管理",
+          "to": "/mh/mh0203"
+        },
+        {
+          "label": "导航栏管理",
+          "to": "/mh/mh0204"
+        },
+        {
+          "label": "友情链接",
+          "to": "/mh/mh0205"
+        },
+        {
+          "label": "办事服务入口",
+          "to": "/mh/mh0206"
+        },
+        {
+          "label": "中心信箱",
+          "to": "/mh/mh0207"
+        }
+      ]
+    },
+    {
+      "label": "审计整改管理",
+      "icon": "el-icon-setting",
+      "to": "sj",
+      "children": [
+        {
+          "label": "首页",
+          "to": "/sj/first-page"
+        },
+        {
+          "label": "审计项目",
+          "to": "/sj/audit-project"
+        },
+        {
+          "label": "整改任务",
+          "to": "/sj/change-job"
+        },
+        {
+          "label": "系统设置",
+          "to": "/sj/system-set"
+        }
+      ]
+    },
+    {
+      "label": "系统设置",
+      "icon": "el-icon-setting",
+      "to": "ge",
+      "children": [
+        {
+          "label": "组织单位",
+          "to": "/ge/organ"
+        },
+        {
+          "label": "人员管理",
+          "to": "/ge/personnel"
+        },
+        {
+          "label": "职位管理",
+          "to": "/ge/position"
+        },
+        {
+          "label": "角色权限",
+          "to": "/ge/role"
+        },
+        {
+          "label": "帮助信息分类",
+          "to": "/ge/help-class"
+        },
+        {
+          "label": "帮助信息",
+          "to": "/ge/help"
+        },
+        {
+          "label": "设置",
+          "to": "/ge/set"
+        }
+      ]
+    },
+    {
+      "label": "动态表单",
+      "icon": "setting",
+      "to": "cf",
+      "children": [
+        {
+          "label": "表单管理",
+          "to": "/cf/create"
+        },
+        {
+          "label": "表单设计",
+          "to": "/cf/design"
+        }
+      ]
+    }
+  ]
+}

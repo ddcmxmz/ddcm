@@ -1,0 +1,62 @@
+//查询行
+.children-item {
+    margin-left: 10px;
+}
+
+//中间部分
+.center-row {
+    margin: 10px 0;
+    height: 30px;
+    vertical-align: bottom;
+}
+
+.data-num {
+    float: left;
+    height: 30px;
+    font-size: 12px;
+}
+
+.data-num div {
+    padding-top: 15px;
+}
+
+.center-row button {
+    float: right;
+    padding: 0;
+    width: 100px;
+    height: 30px;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #33ab9f;
+}
+
+.center-row .add {
+    width: 12px;
+    height: 12px;
+}
+
+//表格部分
+.operate-button {
+    margin: 0 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.operate-button-edit {
+    color: #1f9bdd
+}
+
+.operate-button-delete {
+    color: #d81e06
+}
+
+.el-table .change-color-row {
+    background: #f2f2f2;
+}
+
+.title-url {
+    &:hover {
+        color: rgb(0, 153, 204);
+    }
+}
